@@ -1,0 +1,10 @@
+- create components folder
+- create  profile folder
+- create  adress.js  and adress.css
+- create fullname.js and fullname.css
+- create introductions.js and introductions.css
+- create profilePhotos.js and profilePhotos.css
+- import all element to app.js 
+- create div container then div card then div  card background 
+- insert each components
+- insert each logo in a div in an anchor tag
